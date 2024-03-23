@@ -6,7 +6,7 @@
     "author": "Lucy Anderson",
     "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
     "posted_date": "2024-03-23",
-    "reading_time": "45 mins",
+    "reading_time": 45,
     "hashtags": ["mystery", "adventure", "fiction"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "John Smith",
     "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
     "posted_date": "2024-03-22",
-    "reading_time": "30 mins",
+    "reading_time": 30,
     "hashtags": ["cooking", "foodie", "recipes"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Dr. Emily Johnson",
     "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
     "posted_date": "2024-03-20",
-    "reading_time": "60 mins",
+    "reading_time": 60,
     "hashtags": ["space", "science", "exploration"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Michael Brown",
     "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
     "posted_date": "2024-03-18",
-    "reading_time": "20 mins",
+    "reading_time": 20,
     "hashtags": ["mindfulness", "meditation", "wellness"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Captain Jack Sparrow",
     "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
     "posted_date": "2024-03-16",
-    "reading_time": "50 mins",
+    "reading_time": 50,
     "hashtags": ["sailing", "adventure", "pirates"]
   }
 ]
