@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://picsum.photos/id/1015/200/300",
+    "cover": "https://picsum.photos/id/1015/600/400",
     "title": "The Mystery of the Sapphire Pendant",
     "author": "Lucy Anderson",
     "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover": "https://picsum.photos/id/1020/200/300",
+    "cover": "https://picsum.photos/id/1020/600/400",
     "title": "Cooking Adventures: A Culinary Journey",
     "author": "John Smith",
     "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://picsum.photos/id/1025/200/300",
+    "cover": "https://picsum.photos/id/1025/600/400",
     "title": "Beyond the Stars: Exploring the Universe",
     "author": "Dr. Emily Johnson",
     "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -31,22 +31,12 @@
   },
   {
     "id": 4,
-    "cover": "https://picsum.photos/id/1030/200/300",
+    "cover": "https://picsum.photos/id/1030/600/400",
     "title": "The Art of Mindfulness: Finding Inner Peace",
     "author": "Michael Brown",
     "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
     "posted_date": "2024-03-18",
     "reading_time": 20,
     "hashtags": ["mindfulness", "meditation", "wellness"]
-  },
-  {
-    "id": 5,
-    "cover": "https://picsum.photos/id/1040/200/300",
-    "title": "Sailing the Seven Seas: Tales of Adventure",
-    "author": "Captain Jack Sparrow",
-    "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
-    "posted_date": "2024-03-16",
-    "reading_time": 50,
-    "hashtags": ["sailing", "adventure", "pirates"]
   }
 ]
